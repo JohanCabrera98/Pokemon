@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/45/3d/43/453d4394ba93b7a863a3eb88abc49307.png);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Contenedor{background-color: rgba(12, 12, 22, 0.593); 
+    width: 1000px;
+    height: 100px;
+}
+h1 {color: rgb(15, 15, 15);
+font-size: 60px;
+font-style: oblique;
+font-weight: 300;
+text-decoration: underline wavy rgb(29, 38, 137)
+}
+
+
+h2 {color: rgb(15, 15, 15);
+    text-decoration: underline wavy rgb(29, 38, 137);
+}
+
+p {
+    color:#FFFFDD;
+}

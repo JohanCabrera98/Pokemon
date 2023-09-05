@@ -1,0 +1,1 @@
+alert("Bienvenido Entrenador Pokemón")
